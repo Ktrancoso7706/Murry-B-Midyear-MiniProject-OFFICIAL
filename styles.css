@@ -1,0 +1,40 @@
+.para1 {display: flex; justify-content: flex-end;}
+
+.para2 {display: flex; justify-content: flex-start;}
+
+.para3 {display: flex; justify-content: center;}
+
+.para1 {color:#FF493B;}
+
+.para2 {color:#05B7FF;}
+
+.para3 {color:#92EA5B;}
+
+.para1 {font-size: 40px;}
+
+.para2 {font-size: 30px;}
+
+.para3 {font-size: 60px;}
+
+.button {border-style: solid;}
+.button {border-color: red;}
+.button {border-width: 20px;}
+.button {margin: 20px;}
+
+.scribbles {border-style: dashed;}
+.scribbles {border-color: black;}
+.scribbles {border-width: 15px;}
+.scribbles {padding: 30px;}
+.scribbles {margin: 20px;}
+
+.random {border-style: solid;}
+.random {border-color: #FD5CFA;}
+.random {border-width: 10px;}
+.random {padding: 10px;}
+.random {margin: 20px;}
+
+.anton {font-family: Anton;}
+
+.glitch {font-family: Rubik Glitch;}
+
+.teko {font-family: Teko;}
